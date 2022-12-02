@@ -77,5 +77,15 @@ img {
   }
 
   li a.actif {
-    color: royalblue;
+    color: blue;
+    padding: 5px;
+  }
+
+  a:hover {
+    color: gray;
+  }
+
+  figcaption {
+    text-align: start;
+    font-family: Arial, Helvetica, sans-serif;
   }
